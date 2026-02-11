@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --background: #0a0a0a;
-  --foreground: #ededed;
+  --background: #020617;
+  --foreground: #f1f5f9;
   --primary: #3b82f6;
   --primary-hover: #2563eb;
   --secondary: #8b5cf6;
@@ -29,6 +29,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  line-height: 1.6;
 }
 
 * {
